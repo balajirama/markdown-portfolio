@@ -1,3 +1,5 @@
+Click on the bullet for details. It will dropdown some details.
+
 <details>
   <summary>The five faculties</summary>
 
