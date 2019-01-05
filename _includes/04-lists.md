@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+1. Conviction
+2. Persistence
+3. Mindfulness
+4. Concentration
+5. Discernment
