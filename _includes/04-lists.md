@@ -2,7 +2,7 @@
 2. Persistence :sweat_smile: :muscle: :fire:
 3. Mindfulness :clap: :back: :eyes: :point_up: :point_left: :point_right: :point_down:
 4. Concentration :relieved:
-5. Discernment :thinking::justice:
+5. Discernment :thinking:
 
 
 Hindrance | Counteracting factors
